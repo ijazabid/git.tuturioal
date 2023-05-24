@@ -7,6 +7,7 @@ body{
 	background-color:#ddd;
 	font-family:tahoma;
 	font-size:20px;
+	margin-top:10px;
 }
 .main, .slider, .slider img, .nav, .nav ul, .nav ul li, .content
 {
